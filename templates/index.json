@@ -38,6 +38,48 @@
         "overlay_opacity": 30
       }
     },
+    "image_with_text_overlay_hbRbeH": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_qg7kMN": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_F3cPtk": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_kKn9PM": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_qg7kMN",
+        "heading_F3cPtk",
+        "richtext_kKn9PM"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Beige_and_Brown_Nature_Skin_Care_Products_Poster-2.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "shop_the_look_kbxEKH": {
       "type": "shop-the-look",
       "blocks": {
@@ -214,6 +256,7 @@
   },
   "order": [
     "image_with_text_overlay_x6girC",
+    "image_with_text_overlay_hbRbeH",
     "shop_the_look_kbxEKH",
     "multi_column_EfGgdN",
     "multi_column_RL6bBP"
