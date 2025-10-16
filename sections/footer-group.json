@@ -11,35 +11,6 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
-    "image_with_text_overlay_anFjbQ": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_z7KRjC": {
-          "type": "heading",
-          "settings": {
-            "text": "Chaque nuit, votre oreiller devient votre meilleur soin anti-rides.",
-            "heading_tag": "h4"
-          }
-        }
-      },
-      "block_order": [
-        "heading_z7KRjC"
-      ],
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Generated_Image_October_16_2025_-_12_35PM.png",
-        "mobile_image": "shopify://shop_images/Generated_Image_October_16_2025_-_12_35PM.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
@@ -160,7 +131,6 @@
     }
   },
   "order": [
-    "image_with_text_overlay_anFjbQ",
     "text-with-icons",
     "footer"
   ]
