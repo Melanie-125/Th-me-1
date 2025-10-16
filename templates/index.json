@@ -38,6 +38,58 @@
         "overlay_opacity": 30
       }
     },
+    "shop_the_look_kbxEKH": {
+      "type": "shop-the-look",
+      "blocks": {
+        "product_Uwb9mm": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "horizontal_position": 52,
+            "vertical_position": 25
+          }
+        },
+        "product_Ypj7pX": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "horizontal_position": 75,
+            "vertical_position": 53
+          }
+        },
+        "product_H7UBhk": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "horizontal_position": 33,
+            "vertical_position": 73
+          }
+        }
+      },
+      "block_order": [
+        "product_Uwb9mm",
+        "product_Ypj7pX",
+        "product_H7UBhk"
+      ],
+      "name": "Shop the look",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "image": "shopify://shop_images/Design_sans_titre-5.png",
+        "title": "La preuve en image",
+        "content": "<p>oici comment votre peau est comprimée au cours de 8 heures de sommeil sur un oreiller ordinaire.</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": "",
+        "product_card_mobile_background": "",
+        "product_card_mobile_text_color": "",
+        "background_dots": "#ffffff"
+      }
+    },
     "multi_column_EfGgdN": {
       "type": "multi-column",
       "blocks": {
@@ -158,64 +210,12 @@
         "background_gradient": "",
         "text_color": ""
       }
-    },
-    "shop_the_look_kbxEKH": {
-      "type": "shop-the-look",
-      "blocks": {
-        "product_Uwb9mm": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "horizontal_position": 52,
-            "vertical_position": 25
-          }
-        },
-        "product_Ypj7pX": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "horizontal_position": 75,
-            "vertical_position": 53
-          }
-        },
-        "product_H7UBhk": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "horizontal_position": 33,
-            "vertical_position": 73
-          }
-        }
-      },
-      "block_order": [
-        "product_Uwb9mm",
-        "product_Ypj7pX",
-        "product_H7UBhk"
-      ],
-      "name": "Shop the look",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "image": "shopify://shop_images/Design_sans_titre-5.png",
-        "title": "Shop the look",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": "",
-        "product_card_mobile_background": "",
-        "product_card_mobile_text_color": "",
-        "background_dots": "#FFF"
-      }
     }
   },
   "order": [
     "image_with_text_overlay_x6girC",
+    "shop_the_look_kbxEKH",
     "multi_column_EfGgdN",
-    "multi_column_RL6bBP",
-    "shop_the_look_kbxEKH"
+    "multi_column_RL6bBP"
   ]
 }
