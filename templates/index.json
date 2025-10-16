@@ -40,32 +40,6 @@
     },
     "image_with_text_overlay_hbRbeH": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_qg7kMN": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
-        "heading_F3cPtk": {
-          "type": "heading",
-          "settings": {
-            "text": "",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_kKn9PM": {
-          "type": "richtext",
-          "settings": {
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_qg7kMN",
-        "heading_F3cPtk",
-        "richtext_kKn9PM"
-      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
@@ -73,6 +47,22 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/Beige_and_Brown_Nature_Skin_Care_Products_Poster-2.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_LfrUg7": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/E7BFB3-2.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -119,7 +109,7 @@
         "stack_mobile": true,
         "image": "shopify://shop_images/Design_sans_titre-5.png",
         "title": "La preuve en image",
-        "content": "<p>oici comment votre peau est comprimée au cours de 8 heures de sommeil sur un oreiller ordinaire.</p>",
+        "content": "<p>Voici comment votre peau est comprimée au cours de 8 heures de sommeil sur un oreiller ordinaire.</p>",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -257,6 +247,7 @@
   "order": [
     "image_with_text_overlay_x6girC",
     "image_with_text_overlay_hbRbeH",
+    "image_with_text_overlay_LfrUg7",
     "shop_the_look_kbxEKH",
     "multi_column_EfGgdN",
     "multi_column_RL6bBP"
