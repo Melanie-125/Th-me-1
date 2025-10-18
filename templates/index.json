@@ -170,66 +170,20 @@
         "background_dots": "#ffffff"
       }
     },
-    "multi_column_EfGgdN": {
-      "type": "multi-column",
-      "blocks": {
-        "item_gP6PeE": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/rides_sommeil_3.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_mkbh4y": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/rides_sommeil_1.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_wXLhd8": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/rides_sommeil_2.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_gP6PeE",
-        "item_mkbh4y",
-        "item_wXLhd8"
-      ],
-      "name": "Multi-column",
+    "image_with_text_overlay_kXTEPn": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "",
-        "content": "<p>Voici <strong>comme votre peau est comprimée </strong>au cours de 8 heures de sommeil sur un oreiller ordinaire.</p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Faites_le_bon_choix_avec-3.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "multi_column_RL6bBP": {
@@ -289,22 +243,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "image_with_text_overlay_kXTEPn": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Faites_le_bon_choix_avec.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "text_with_icons_R3jKHJ": {
@@ -375,7 +313,6 @@
     "image_link_blocks_yrLACe",
     "shop_the_look_kbxEKH",
     "image_with_text_overlay_kXTEPn",
-    "multi_column_EfGgdN",
     "multi_column_RL6bBP",
     "text_with_icons_R3jKHJ"
   ]
