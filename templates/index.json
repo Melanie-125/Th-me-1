@@ -539,9 +539,9 @@
           "settings": {
             "video": "shopify://files/videos/041_b58da4a6544e4faeb9ff3061457edd56.HD-1080p-4.8Mbps-50953370.mp4",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -550,10 +550,11 @@
         "item_wcpRQ6": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/042_b9d5a030465d4c81b19073b3a55a6d7f.HD-1080p-2.5Mbps-58616129.mp4",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -562,10 +563,11 @@
         "item_7igjba": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/043_bebe928eeebd43b38c4c40e7c923f770.SD-480p-0.9Mbps-50953369.mp4",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -583,9 +585,9 @@
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "subheading": "",
+        "title": "Déjà une révolution aux États-Unis 🇺🇸",
+        "content": "<p>Devenu viral, DermoDream transforme le sommeil de milliers de femmes.<br/><br/>Nuit après nuit, il révèle une peau plus lisse, plus détendue, plus lumineuse.<br/><br/>Les Américaines l’ont adopté & les dermatologues le recommandent…</p><p>Découvrez leurs témoignages, la preuve est sous vos yeux :</p>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -597,12 +599,12 @@
     "logo_list_RMVU9f",
     "image_with_text_overlay_hbRbeH",
     "image_link_blocks_yrLACe",
+    "multi_column_WbzJef",
     "shop_the_look_kbxEKH",
     "image_with_text_overlay_kXTEPn",
     "multi_column_RL6bBP",
     "text_with_icons_R3jKHJ",
     "faq_T6VaYt",
-    "featured_product_gDj8Cq",
-    "multi_column_WbzJef"
+    "featured_product_gDj8Cq"
   ]
 }
