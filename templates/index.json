@@ -305,6 +305,99 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "faq_T6VaYt": {
+      "type": "faq",
+      "blocks": {
+        "item_bKJCxg": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que l’oreiller DermoDream fonctionne vraiment ?",
+            "content": "<p>Oui. <strong>S'il est recommandé par les dermatologues ce n'est pas pour rien ! </strong></p><p>Nos clientes constatent rapidement des résultats visibles : peau plus lisse, traits détendus, moins de marques du sommeil au réveil.<br/><br/>Ce n’est pas un “effet miracle”, mais une conception intelligente : <strong>la forme ergonomique réduit la pression exercée sur la peau</strong> chaque nuit, limitant la formation des plis et micro-traumatismes cutanés qui favorisent les rides.</p>"
+          }
+        },
+        "item_hH9wiM": {
+          "type": "item",
+          "settings": {
+            "title": "En combien de temps verrai-je les premiers résultats ?",
+            "content": "<p>Les effets se font souvent remarquer dès les premières nuits :</p><ul><li>3 à 7 jours → Peau plus reposée, moins marquée au réveil.<br/></li><li>14 jours → Teint plus uniforme, meilleure hydratation cutanée.<br/></li><li>30 jours → Diminution visible des plis du sommeil et amélioration durable de la texture de la peau.<br/></li></ul><p>💡 <em>Les bénéfices sont cumulatifs : plus vous dormez avec DermoDream, plus votre peau se régénère naturellement</em></p>"
+          }
+        },
+        "item_jxFkLy": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce adapté à tous les types de peau ?",
+            "content": "<p>Oui, absolument. L’oreiller DermoDream est conçu pour <strong>toutes les peaux, y compris les plus sensibles.</strong><br/><br/>Sa housse douce minimise les frottements et préserve la barrière cutanée, sans absorber vos soins du soir.</p>"
+          }
+        },
+        "item_CNBNw3": {
+          "type": "item",
+          "settings": {
+            "title": "Peut-il remplacer ma routine skincare ?",
+            "content": "<p>Pas totalement mais <strong>sans DermoDream, votre skincare perd une grande partie de son efficacité.</strong><br/><br/>Un oreiller classique <strong>absorbe vos soins de nuit</strong> et <strong>étouffe la peau</strong> pendant le sommeil, empêchant la régénération naturelle.</p><p>DermoDream, lui, agit en synergie avec votre routine beauté :<br/><br/>il <strong>préserve l’hydratation</strong>, empêche la perte des actifs appliqués sur la peau et <strong>favorise une oxygénation naturelle</strong> tout au long de la nuit.</p>"
+          }
+        },
+        "item_LRfzQB": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce bon aussi pour les cheveux ?",
+            "content": "<p>Oui, Dermodream prend également soin de vos cheveux !<br/><br/>La texture et la matière de DermoDream réduisent les frictions responsables des cheveux cassants, fourchus ou électriques.<br/><br/>Résultat : <strong>des cheveux plus doux, plus brillants, et moins de casse au réveil.</strong></p>"
+          }
+        },
+        "item_CqXVQr": {
+          "type": "item",
+          "settings": {
+            "title": "Pourquoi ce prix ?",
+            "content": "<p>Chaque oreiller DermoDream est fabriqué avec :</p><ul><li>Des matériaux haut de gamme testés dermatologiquement<br/></li><li>Une mousse à mémoire de forme respirante et durable<br/></li><li>Une housse soyeuse hypoallergénique<br/></li><li>Une conception ergonomique brevetée</li></ul>"
+          }
+        },
+        "item_g48LKj": {
+          "type": "item",
+          "settings": {
+            "title": "DermoDream fonctionne-t-il aussi pour les hommes ?",
+            "content": "<p>Absolument. <strong>La peau des hommes subit les mêmes pressions mécaniques pendant le sommeil</strong> : frottements, plis, déshydratation et perte d’élasticité.<br/><br/>L’oreiller DermoDream agit de la même manière sur toutes les peaux, qu’elles soient masculines ou féminines.</p><p>Nos utilisateurs masculins remarquent </p>"
+          }
+        },
+        "item_pmeeKj": {
+          "type": "item",
+          "settings": {
+            "title": "Quelle est la durée de vie de l’oreiller DermoDream ?",
+            "content": "<p>Grâce à la <strong>qualité des matériaux utilisés</strong>, l’oreiller DermoDream offre une <strong>durée de vie moyenne de 5 ans</strong>.<br/><br/>Sa mousse à mémoire de forme haute densité résiste parfaitement à l’usure du temps.</p><p>Pour garantir une hygiène et un soutien optimal, il est toutefois <strong>recommandé de le remplacer tous les 5 ans</strong>, comme tout oreiller haut de gamme.</p><p><strong>La housse, quant à elle, est amovible et lavable</strong>, afin de préserver une hygiène impeccable.</p><p>Il est <strong>recommandé de la remplacer plus régulièrement</strong> environ tous les 6 mois pour maintenir une sensation de fraîcheur et une texture soyeuse optimale au contact de la peau.</p><p><em>Un investissement durable pour la santé et la beauté de votre peau, nuit après nuit.</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_bKJCxg",
+        "item_hH9wiM",
+        "item_jxFkLy",
+        "item_CNBNw3",
+        "item_LRfzQB",
+        "item_CqXVQr",
+        "item_g48LKj",
+        "item_pmeeKj"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Notre service client est disponible du lundi au vendredi, de 8h à 20h30.",
+        "answer_time": "Temps de réponse moyen : 24 heures.",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -314,6 +407,7 @@
     "shop_the_look_kbxEKH",
     "image_with_text_overlay_kXTEPn",
     "multi_column_RL6bBP",
-    "text_with_icons_R3jKHJ"
+    "text_with_icons_R3jKHJ",
+    "faq_T6VaYt"
   ]
 }
