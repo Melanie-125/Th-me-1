@@ -83,11 +83,11 @@
       "name": "Logo list",
       "settings": {
         "full_width": true,
-        "stack_mobile": true,
+        "stack_mobile": false,
         "title": "Vu sur :",
         "content": "",
         "text_alignment": "center",
-        "items_per_row": 5,
+        "items_per_row": 4,
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -175,6 +175,68 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
+      }
+    },
+    "multi_column_WbzJef": {
+      "type": "multi-column",
+      "blocks": {
+        "item_hhJPXn": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/041_b58da4a6544e4faeb9ff3061457edd56.HD-1080p-4.8Mbps-50953370.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_wcpRQ6": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/042_b9d5a030465d4c81b19073b3a55a6d7f.HD-1080p-2.5Mbps-58616129.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_7igjba": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/043_bebe928eeebd43b38c4c40e7c923f770.SD-480p-0.9Mbps-50953369.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_hhJPXn",
+        "item_wcpRQ6",
+        "item_7igjba"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Déjà une révolution aux États-Unis 🇺🇸",
+        "content": "<p>Devenu viral, DermoDream transforme le sommeil de milliers de femmes.<br/><br/>Nuit après nuit, il révèle une peau plus lisse, plus détendue, plus lumineuse.<br/><br/>Les Américaines l’ont adopté & les dermatologues le recommandent…</p><p>Découvrez leurs témoignages, la preuve est sous vos yeux :</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "shop_the_look_kbxEKH": {
@@ -529,68 +591,6 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
-      }
-    },
-    "multi_column_WbzJef": {
-      "type": "multi-column",
-      "blocks": {
-        "item_hhJPXn": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/041_b58da4a6544e4faeb9ff3061457edd56.HD-1080p-4.8Mbps-50953370.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_wcpRQ6": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/042_b9d5a030465d4c81b19073b3a55a6d7f.HD-1080p-2.5Mbps-58616129.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_7igjba": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/043_bebe928eeebd43b38c4c40e7c923f770.SD-480p-0.9Mbps-50953369.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_hhJPXn",
-        "item_wcpRQ6",
-        "item_7igjba"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "Déjà une révolution aux États-Unis 🇺🇸",
-        "content": "<p>Devenu viral, DermoDream transforme le sommeil de milliers de femmes.<br/><br/>Nuit après nuit, il révèle une peau plus lisse, plus détendue, plus lumineuse.<br/><br/>Les Américaines l’ont adopté & les dermatologues le recommandent…</p><p>Découvrez leurs témoignages, la preuve est sous vos yeux :</p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     }
   },
