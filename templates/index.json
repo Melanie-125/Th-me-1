@@ -80,7 +80,13 @@
         "logo_pHQ6xV",
         "logo_Yb3e8M"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ":root{--logo-list-item-max-size:110px}",
+        ".prose h2{font-size:18px;margin-bottom:14px}",
+        ".section-stack{gap:4px;margin:0;padding:0}",
+        ".logo-list__item{padding:4px!important}",
+        ".logo-list__image{max-height:26px;width:auto;opacity:.9}"
+      ],
       "name": "Logo list",
       "settings": {
         "full_width": true,
