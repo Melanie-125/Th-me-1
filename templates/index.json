@@ -188,7 +188,7 @@
         "heading_qmWQh3": {
           "type": "heading",
           "settings": {
-            "text": "Video",
+            "text": "",
             "heading_tag": "h1"
           }
         }
@@ -201,7 +201,7 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "autoplay": false,
+        "autoplay": true,
         "video_size": "auto",
         "video": "shopify://files/videos/Design sans titre.mp4",
         "external_video_url": "",
