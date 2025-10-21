@@ -263,7 +263,7 @@
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "subheading": "",
         "title": "Et déjà une révolution aux États-Unis 🇺🇸",
         "content": "<p>Devenu viral, DermoDream transforme le sommeil de milliers de femmes.<br/><br/>Nuit après nuit, il révèle une peau plus lisse, plus détendue, plus lumineuse.<br/><br/>Les Américaines l’ont adopté & les dermatologues le recommandent…</p><p>Découvrez leurs témoignages, la preuve est sous vos yeux :</p>",
@@ -279,7 +279,7 @@
         "full_width": true,
         "stack_mobile": true,
         "image": "shopify://shop_images/Design_sans_titre-5.png",
-        "title": "La preuve en image",
+        "title": "Les effets d'un oreiller ordinaire",
         "content": "<p>Voici comment votre peau est comprimée au cours de 8 heures de sommeil sur un oreiller ordinaire.</p>",
         "background": "",
         "background_gradient": "",
@@ -521,6 +521,138 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "multi_column_HN8g9r": {
+      "type": "multi-column",
+      "blocks": {
+        "item_ArgUeJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1_285fe1b1-97b9-4d1e-ad7e-41e4b5abd942.png",
+            "column_size": "1.5",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_CgpUTq": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2_d1776972-298f-4c7c-95d2-ccd344606e46.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_WAzThY": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3_355665d5-f1dc-419c-8d15-a41362707977.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_yiLCt3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4_60866bd5-be2c-4e30-91bb-b010a5449a6b.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_LKTmXK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5_f0585cea-cb93-4e79-b581-2f9846be1ba8.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_EmJLFy": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/6_3e5e28c9-a9e6-4d38-8aaf-7ec241055147.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jqL3UQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/7_73fe78dd-93ff-4002-96d5-a47f348090bb.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_MVqHpd": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/8_852d9aee-bbf0-4a33-b899-84e1742be95d.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_ArgUeJ",
+        "item_CgpUTq",
+        "item_WAzThY",
+        "item_yiLCt3",
+        "item_LKTmXK",
+        "item_EmJLFy",
+        "item_jqL3UQ",
+        "item_MVqHpd"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "<p>.</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -534,6 +666,7 @@
     "multi_column_RL6bBP",
     "image_with_text_overlay_kXTEPn",
     "text_with_icons_R3jKHJ",
-    "faq_T6VaYt"
+    "faq_T6VaYt",
+    "multi_column_HN8g9r"
   ]
 }
