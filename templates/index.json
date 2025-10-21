@@ -114,38 +114,6 @@
         "overlay_opacity": 0
       }
     },
-    "video_G36tUw": {
-      "type": "video",
-      "blocks": {
-        "play_NJwDz6": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_qmWQh3": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "play_NJwDz6",
-        "heading_qmWQh3"
-      ],
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": false,
-        "video_size": "auto",
-        "video": "shopify://files/videos/Design sans titre.mp4",
-        "external_video_url": "",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "image_link_blocks_yrLACe": {
       "type": "image-link-blocks",
       "blocks": {
@@ -210,13 +178,45 @@
         "heading_gradient": ""
       }
     },
+    "video_G36tUw": {
+      "type": "video",
+      "blocks": {
+        "play_NJwDz6": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_qmWQh3": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_NJwDz6",
+        "heading_qmWQh3"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "video": "shopify://files/videos/Design sans titre.mp4",
+        "external_video_url": "",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "multi_column_WbzJef": {
       "type": "multi-column",
       "blocks": {
         "item_hhJPXn": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/041_b58da4a6544e4faeb9ff3061457edd56.HD-1080p-4.8Mbps-50953370.mp4",
+            "video": "shopify://files/videos/WhatsApp Video 2025-10-21 at 15.20.34.mp4",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -229,7 +229,7 @@
         "item_wcpRQ6": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/042_b9d5a030465d4c81b19073b3a55a6d7f.HD-1080p-2.5Mbps-58616129.mp4",
+            "video": "shopify://files/videos/WhatsApp Video 2025-10-21 at 15.34.23.mp4",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -631,8 +631,8 @@
     "image_with_text_overlay_x6girC",
     "logo_list_RMVU9f",
     "image_with_text_overlay_hbRbeH",
-    "video_G36tUw",
     "image_link_blocks_yrLACe",
+    "video_G36tUw",
     "multi_column_WbzJef",
     "shop_the_look_kbxEKH",
     "image_with_text_overlay_kXTEPn",
