@@ -472,6 +472,7 @@
         "item_wcpRQ6",
         "item_7igjba"
       ],
+      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
@@ -488,6 +489,7 @@
     },
     "shop_the_look_kbxEKH": {
       "type": "shop-the-look",
+      "disabled": true,
       "name": "Shop the look",
       "settings": {
         "full_width": true,
@@ -771,22 +773,6 @@
         "lazy": true
       }
     },
-    "image_with_text_overlay_kXTEPn": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Faites_le_bon_choix_avec-4.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "multi_column_HN8g9r": {
       "type": "multi-column",
       "blocks": {
@@ -980,6 +966,22 @@
         "text_color": ""
       }
     },
+    "image_with_text_overlay_kXTEPn": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Faites_le_bon_choix_avec-4.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "faq_T6VaYt": {
       "type": "faq",
       "blocks": {
@@ -1114,9 +1116,9 @@
     "featured_product_VfK9bV",
     "video_z76hWK",
     "multi_column_HN8g9r",
-    "text_with_icons_R3jKHJ",
     "image_with_text_overlay_kXTEPn",
-    "faq_T6VaYt",
-    "1761123350e89d3ec4"
+    "text_with_icons_R3jKHJ",
+    "1761123350e89d3ec4",
+    "faq_T6VaYt"
   ]
 }
