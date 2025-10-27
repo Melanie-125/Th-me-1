@@ -507,22 +507,6 @@
         "background_dots": "#ffffff"
       }
     },
-    "image_with_text_overlay_kXTEPn": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Faites_le_bon_choix_avec-4.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "featured_product_VfK9bV": {
       "type": "featured-product",
       "blocks": {
@@ -785,6 +769,22 @@
         "padding_horizontal_mobile": 0,
         "border_thickness": 0,
         "lazy": true
+      }
+    },
+    "image_with_text_overlay_kXTEPn": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Faites_le_bon_choix_avec-4.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "multi_column_HN8g9r": {
@@ -1111,11 +1111,11 @@
     "video_G36tUw",
     "multi_column_WbzJef",
     "shop_the_look_kbxEKH",
-    "image_with_text_overlay_kXTEPn",
     "featured_product_VfK9bV",
     "video_z76hWK",
     "multi_column_HN8g9r",
     "text_with_icons_R3jKHJ",
+    "image_with_text_overlay_kXTEPn",
     "faq_T6VaYt",
     "1761123350e89d3ec4"
   ]
