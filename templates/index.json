@@ -294,7 +294,7 @@
         "stars_bg_color": "#00b67a",
         "stars_color": "#ffffff",
         "text_color": "#000000",
-        "background_color": "#ffffff",
+        "background_color": "#f0f0f0",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,
@@ -526,12 +526,6 @@
     "featured_product_VfK9bV": {
       "type": "featured-product",
       "blocks": {
-        "liquid_HCpfDV": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div id='ss-product-videos'></div>"
-          }
-        },
         "liquid_Ck6Cz7": {
           "type": "liquid",
           "settings": {
@@ -605,10 +599,21 @@
         "pickup_availability_fTEwg8": {
           "type": "pickup_availability",
           "settings": {}
+        },
+        "liquid_zfmrGC": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock restant : 12 boîtes, expédié sous 24 heures. </div>\n</div>"
+          }
+        },
+        "liquid_HCpfDV": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div id='ss-product-videos'></div>"
+          }
         }
       },
       "block_order": [
-        "liquid_HCpfDV",
         "liquid_Ck6Cz7",
         "vendor_jfhPQV",
         "title_RmiFxA",
@@ -620,7 +625,9 @@
         "variant_picker_tcbXFz",
         "quantity_selector_3ciYyK",
         "buy_buttons_TpCHRB",
-        "pickup_availability_fTEwg8"
+        "pickup_availability_fTEwg8",
+        "liquid_zfmrGC",
+        "liquid_HCpfDV"
       ],
       "name": "Featured product",
       "settings": {
@@ -641,19 +648,6 @@
         "input_text_color": ""
       }
     },
-    "custom_liquid_JWiDGV": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Stock restant : 12 boîtes, expédié sous 24 heures. </div>\n</div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "video_z76hWK": {
       "type": "video",
       "blocks": {
@@ -662,7 +656,7 @@
           "settings": {
             "video": "shopify://files/videos/WhatsApp Video 2025-10-21 at 15.20.34.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "modal_heading": "<h4>Modal Heading</h4>",
+            "modal_heading": "",
             "modal_text": "<p>Modal Text</p>"
           }
         },
@@ -684,7 +678,7 @@
       "settings": {
         "videos_position": "above_description",
         "use_metafield": false,
-        "heading": "<p>Déjà une révolution aux États-Unis 🇺🇸</p>",
+        "heading": "<h4>Déjà une révolution aux États-Unis 🇺🇸<br/></h4>",
         "heading_custom": false,
         "heading_font": "josefin_sans_n4",
         "heading_size": 18,
@@ -793,7 +787,7 @@
         "lazy": true
       }
     },
-    "custom_liquid_NrUAtN": {
+    "custom_liquid_cD7VKY": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
       "settings": {
@@ -1132,9 +1126,8 @@
     "shop_the_look_kbxEKH",
     "image_with_text_overlay_kXTEPn",
     "featured_product_VfK9bV",
-    "custom_liquid_JWiDGV",
     "video_z76hWK",
-    "custom_liquid_NrUAtN",
+    "custom_liquid_cD7VKY",
     "multi_column_HN8g9r",
     "text_with_icons_R3jKHJ",
     "faq_T6VaYt",
