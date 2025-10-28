@@ -27,11 +27,19 @@
             "text": "Livraison gratuite",
             "url": ""
           }
+        },
+        "message_mfUk4m": {
+          "type": "message",
+          "settings": {
+            "text": "Satisfait ou remboursé",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message_ayrETy",
-        "message"
+        "message",
+        "message_mfUk4m"
       ],
       "settings": {
         "enable_sticky": false,
