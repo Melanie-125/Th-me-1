@@ -38,6 +38,83 @@
         "overlay_opacity": 22
       }
     },
+    "multi_column_RBegFy": {
+      "type": "multi-column",
+      "blocks": {
+        "item_yPt3tR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_TCCYrF": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_VY9CFq": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p></p><p></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_tgYKhg": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p></p><p></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_yPt3tR",
+        "item_TCCYrF",
+        "item_VY9CFq",
+        "item_tgYKhg"
+      ],
+      "disabled": true,
+      "name": "Multi-column",
+      "settings": {
+        "full_width": false,
+        "stack_on_mobile": false,
+        "gap": "small",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "logo_list_RMVU9f": {
       "type": "logo-list",
       "blocks": {
@@ -130,6 +207,21 @@
         "overlay_opacity": 0
       }
     },
+    "video_tqV6CF": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/Design sans titre.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "image_link_blocks_yrLACe": {
       "type": "image-link-blocks",
       "blocks": {
@@ -192,21 +284,6 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
-      }
-    },
-    "video_tqV6CF": {
-      "type": "video",
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/Design sans titre.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "shop_the_look_kbxEKH": {
@@ -344,7 +421,7 @@
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
+        "mobile_carousel_control": "thumbnails",
         "enable_video_autoplay": true,
         "enable_video_looping": false,
         "enable_image_zoom": true,
@@ -898,11 +975,12 @@
   },
   "order": [
     "image_with_text_overlay_x6girC",
+    "multi_column_RBegFy",
     "logo_list_RMVU9f",
     "image_with_text_overlay_hbRbeH",
     "image_with_text_overlay_wnRpN3",
-    "image_link_blocks_yrLACe",
     "video_tqV6CF",
+    "image_link_blocks_yrLACe",
     "shop_the_look_kbxEKH",
     "featured_product_VfK9bV",
     "trustpilot_wGthRh",
