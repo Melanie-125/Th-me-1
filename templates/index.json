@@ -771,6 +771,7 @@
         "video_6WnfFK": {
           "type": "video",
           "settings": {
+            "video": "shopify://files/videos/WhatsApp Video 2025-10-21 at 15.20.34.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "modal_heading": "<h4>Modal Heading</h4>",
             "modal_text": "<p>Modal Text</p>"
@@ -812,7 +813,7 @@
       "settings": {
         "videos_position": "above_description",
         "use_metafield": false,
-        "heading": "<h2>WHAT OUR FELLOWS SAY</h2>",
+        "heading": "<h2>Déjà une révolution aux États-Unis 🇺🇸</h2>",
         "heading_custom": false,
         "heading_font": "josefin_sans_n4",
         "heading_size": 18,
