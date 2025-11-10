@@ -114,6 +114,22 @@
         "overlay_opacity": 0
       }
     },
+    "image_with_text_overlay_wnRpN3": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Post_Instagram_Nouveau_produit_cosmetique_skin_care_Elegant_Professionnel_Terracotta.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "image_link_blocks_yrLACe": {
       "type": "image-link-blocks",
       "blocks": {
@@ -1061,6 +1077,7 @@
     "image_with_text_overlay_x6girC",
     "logo_list_RMVU9f",
     "image_with_text_overlay_hbRbeH",
+    "image_with_text_overlay_wnRpN3",
     "image_link_blocks_yrLACe",
     "video_G36tUw",
     "multi_column_WbzJef",
