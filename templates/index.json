@@ -194,6 +194,21 @@
         "heading_gradient": ""
       }
     },
+    "video_tqV6CF": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/Design sans titre.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "shop_the_look_kbxEKH": {
       "type": "shop-the-look",
       "disabled": true,
@@ -741,6 +756,7 @@
     "image_with_text_overlay_hbRbeH",
     "image_with_text_overlay_wnRpN3",
     "image_link_blocks_yrLACe",
+    "video_tqV6CF",
     "shop_the_look_kbxEKH",
     "featured_product_VfK9bV",
     "trustpilot_wGthRh",
