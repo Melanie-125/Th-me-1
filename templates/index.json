@@ -98,117 +98,21 @@
         "logo_item_border": ""
       }
     },
-    "image_with_text_overlay_hbRbeH": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Beige_and_Brown_Nature_Skin_Care_Products_Poster-4.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "image_with_text_overlay_wnRpN3": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Post_Instagram_Nouveau_produit_cosmetique_skin_care_Elegant_Professionnel_Terracotta.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "image_link_blocks_yrLACe": {
-      "type": "image-link-blocks",
-      "blocks": {
-        "item_PTyn4h": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/84_-4.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_pJrxFL": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/84_-6.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_zmg9rj": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/84_-7.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "item_PTyn4h",
-        "item_pJrxFL",
-        "item_zmg9rj"
-      ],
-      "name": "Image link blocks",
-      "settings": {
-        "full_width": false,
-        "block_size": "medium",
-        "subheading": "",
-        "title": "Des résultats cliniquement prouvés :",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "video_G36tUw": {
       "type": "video",
       "blocks": {
-        "video_ji7Ep8": {
+        "video_ybPW3N": {
           "type": "video",
           "settings": {
             "video": "shopify://files/videos/Design sans titre.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "modal_heading": "",
-            "modal_text": ""
+            "modal_text": "<p>Modal Text</p>"
           }
         }
       },
       "block_order": [
-        "video_ji7Ep8"
+        "video_ybPW3N"
       ],
       "name": "Video",
       "settings": {
@@ -323,67 +227,100 @@
         "lazy": true
       }
     },
-    "multi_column_WbzJef": {
-      "type": "multi-column",
+    "image_with_text_overlay_hbRbeH": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Beige_and_Brown_Nature_Skin_Care_Products_Poster-4.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_wnRpN3": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Post_Instagram_Nouveau_produit_cosmetique_skin_care_Elegant_Professionnel_Terracotta.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_link_blocks_yrLACe": {
+      "type": "image-link-blocks",
       "blocks": {
-        "item_hhJPXn": {
+        "item_PTyn4h": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/WhatsApp Video 2025-10-21 at 15.20.34.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
+            "image": "shopify://shop_images/84_-4.png",
+            "stretch_image": true,
             "link_text": "",
-            "link_style": "link"
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
           }
         },
-        "item_wcpRQ6": {
+        "item_pJrxFL": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/WhatsApp Video 2025-10-21 at 15.34.23.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
+            "image": "shopify://shop_images/84_-6.png",
+            "stretch_image": true,
             "link_text": "",
-            "link_style": "link"
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
           }
         },
-        "item_7igjba": {
+        "item_zmg9rj": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/043_bebe928eeebd43b38c4c40e7c923f770.SD-480p-0.9Mbps-50953369.mp4",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
+            "image": "shopify://shop_images/84_-7.png",
+            "stretch_image": true,
             "link_text": "",
-            "link_style": "link"
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
           }
         }
       },
       "block_order": [
-        "item_hhJPXn",
-        "item_wcpRQ6",
-        "item_7igjba"
+        "item_PTyn4h",
+        "item_pJrxFL",
+        "item_zmg9rj"
       ],
-      "disabled": true,
-      "name": "Multi-column",
+      "name": "Image link blocks",
       "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
+        "full_width": false,
+        "block_size": "medium",
         "subheading": "",
-        "title": "Et Déjà une révolution aux États-Unis 🇺🇸",
-        "content": "<p>Devenu viral, DermoDream transforme le sommeil de milliers de femmes.<br/><br/>Nuit après nuit, il révèle une peau plus lisse, plus détendue, plus lumineuse.<br/><br/>Les Américaines l’ont adopté & les dermatologues le recommandent…</p><p>Découvrez leurs témoignages, la preuve est sous vos yeux :</p>",
+        "title": "Des résultats cliniquement prouvés :",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
         "background": "",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "shop_the_look_kbxEKH": {
@@ -531,145 +468,6 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
-      }
-    },
-    "video_z76hWK": {
-      "type": "video",
-      "blocks": {
-        "video_afMRTp": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/WhatsApp Video 2025-10-21 at 15.20.34.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "modal_heading": "",
-            "modal_text": "<p>Modal Text</p>"
-          }
-        },
-        "video_wVz6fe": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/WhatsApp Video 2025-10-21 at 15.34.23.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "modal_heading": "<h4>Modal Heading</h4>",
-            "modal_text": "<p>Modal Text</p>"
-          }
-        }
-      },
-      "block_order": [
-        "video_afMRTp",
-        "video_wVz6fe"
-      ],
-      "name": "SS - Product Videos",
-      "settings": {
-        "videos_position": "above_description",
-        "use_metafield": false,
-        "heading": "<h4>Déjà une révolution aux États-Unis 🇺🇸<br/></h4>",
-        "heading_custom": false,
-        "heading_font": "josefin_sans_n4",
-        "heading_size": 18,
-        "heading_size_mobile": 18,
-        "heading_height": 130,
-        "heading_align": "center",
-        "heading_align_mobile": "center",
-        "slider_view": 3,
-        "slider_view_mobile": 3,
-        "slider_gap": 16,
-        "slider_gap_mobile": 16,
-        "slider_mt": 20,
-        "card_radius": 10,
-        "card_border_thickness": 0,
-        "card_shadow": true,
-        "video_ratio": "portrait",
-        "video_ratio_mobile": "portrait",
-        "video_overlay": 0.3,
-        "icon_size": 34,
-        "icon_size_mobile": 34,
-        "icon_border_thickness": 1,
-        "icon_position_mobile": "bottom_left",
-        "icon_position": "bottom_left",
-        "hide_icon": false,
-        "arrow_size": 35,
-        "arrow_size_mobile": 35,
-        "arrow_radius": 5,
-        "arrow_border_thickness": 0,
-        "arrow_hover_shadow": true,
-        "arrow_show_desktop": true,
-        "arrow_show_mobile": true,
-        "show_content": true,
-        "modal_width": 70,
-        "modal_width_mobile": 95,
-        "modal_padding_vertical": 0,
-        "modal_padding_vertical_mobile": 0,
-        "modal_padding_horizontal": 0,
-        "modal_padding_horizontal_mobile": 0,
-        "modal_radius": 16,
-        "modal_border_thickness": 0,
-        "modal_overlay": 50,
-        "close_size": 42,
-        "close_size_mobile": 42,
-        "close_radius": 8,
-        "close_border_thickness": 0,
-        "buttons_size": 48,
-        "buttons_size_mobile": 48,
-        "buttons_radius": 8,
-        "buttons_border_thickness": 0,
-        "modal_video_radius": 0,
-        "modal_video_border_thickness": 0,
-        "modal_video_ratio": "portrait",
-        "modal_video_ratio_mobile": "portrait",
-        "modal_heading_custom": false,
-        "modal_heading_font": "josefin_sans_n4",
-        "modal_heading_size": 28,
-        "modal_heading_size_mobile": 28,
-        "modal_heading_height": 130,
-        "modal_heading_align": "center",
-        "modal_heading_align_mobile": "center",
-        "modal_text_custom": false,
-        "modal_text_font": "josefin_sans_n4",
-        "modal_text_size": 16,
-        "modal_text_size_mobile": 16,
-        "modal_text_height": 130,
-        "modal_text_align": "center",
-        "modal_text_align_mobile": "center",
-        "modal_text_mt": 16,
-        "card_bg_color": "#ffffff",
-        "card_border_color": "#000000",
-        "card_shadow_color": "#000000",
-        "video_overlay_color": "#000000",
-        "icon_bg_color": "#000000",
-        "icon_border_color": "#ffffff",
-        "icon_color": "#ffffff",
-        "arrow_bg_color": "#ffffff",
-        "arrow_bg_hover_color": "#ffffff",
-        "arrow_border_color": "#000000",
-        "arrow_border_hover_color": "#000000",
-        "arrow_icon_color": "#1c1c1c",
-        "arrow_icon_hover_color": "#1c1c1c",
-        "modal_bg_color": "#ffffff",
-        "modal_border_color": "#000000",
-        "close_bg_color": "#ffffff",
-        "close_border_color": "#000000",
-        "close_icon_color": "#ffffff",
-        "buttons_bg_color": "#ffffff",
-        "buttons_border_color": "#000000",
-        "buttons_icon_color": "#ffffff",
-        "modal_video_border_color": "#000000",
-        "modal_content_bg_color": "#ffffff",
-        "modal_content_border_color": "#000000",
-        "modal_heading_color": "#000000",
-        "modal_text_color": "#000000",
-        "heading_color": "#000000",
-        "background_color": "#ffffff",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 20,
-        "padding_bottom": 20,
-        "padding_horizontal": 0,
-        "padding_horizontal_mobile": 0,
-        "border_thickness": 0,
-        "lazy": true
       }
     },
     "trustpilot_wGthRh": {
@@ -1076,14 +874,12 @@
   "order": [
     "image_with_text_overlay_x6girC",
     "logo_list_RMVU9f",
+    "video_G36tUw",
     "image_with_text_overlay_hbRbeH",
     "image_with_text_overlay_wnRpN3",
     "image_link_blocks_yrLACe",
-    "video_G36tUw",
-    "multi_column_WbzJef",
     "shop_the_look_kbxEKH",
     "featured_product_VfK9bV",
-    "video_z76hWK",
     "trustpilot_wGthRh",
     "multi_column_HN8g9r",
     "image_with_text_overlay_kXTEPn",
