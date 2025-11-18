@@ -55,6 +55,11 @@
         "type": "shopify://apps/parcel-panel/blocks/app.embed/fc785c3f-90e0-4c98-a20c-7cde9ba5e4b5",
         "disabled": false,
         "settings": {}
+      },
+      "8669066016853369741": {
+        "type": "shopify://apps/hotjar-install/blocks/global/2903e4ea-7615-463e-8b60-582f487dac4f",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
