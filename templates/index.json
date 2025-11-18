@@ -9,6 +9,27 @@
  */
 {
   "sections": {
+    "176347765601516ac1": {
+      "type": "apps",
+      "blocks": {
+        "hotjar_install_page_ATDxU7": {
+          "type": "shopify://apps/hotjar-install/blocks/page/2903e4ea-7615-463e-8b60-582f487dac4f",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "hotjar_install_page_ATDxU7"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_with_text_overlay_x6girC": {
       "type": "image-with-text-overlay",
       "blocks": {
@@ -972,26 +993,6 @@
         "padding_horizontal_mobile": 0,
         "border_thickness": 0,
         "lazy": true
-      }
-    },
-    "176347765601516ac1": {
-      "type": "apps",
-      "blocks": {
-        "hotjar_install_page_ATDxU7": {
-          "type": "shopify://apps/hotjar-install/blocks/page/2903e4ea-7615-463e-8b60-582f487dac4f",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "hotjar_install_page_ATDxU7"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     }
   },
