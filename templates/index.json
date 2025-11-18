@@ -20,7 +20,6 @@
       "block_order": [
         "hotjar_install_page_ATDxU7"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -997,7 +996,6 @@
     }
   },
   "order": [
-    "176347765601516ac1",
     "image_with_text_overlay_x6girC",
     "multi_column_RBegFy",
     "logo_list_RMVU9f",
@@ -1013,6 +1011,7 @@
     "image_with_text_overlay_kXTEPn",
     "1761123350e89d3ec4",
     "faq_T6VaYt",
-    "ssvid_pC8TKR"
+    "ssvid_pC8TKR",
+    "176347765601516ac1"
   ]
 }
